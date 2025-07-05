@@ -1,0 +1,26 @@
+body {
+  direction: rtl;
+  font-family: Tahoma, sans-serif;
+  background-color: #fdfdfd;
+  margin: 20px;
+  line-height: 1.8;
+  color: #333;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0066cc;
+  margin: 0 10px;
+}
+
+h1 {
+  color: #004080;
+}
+
+h2 {
+  color: #0055aa;
+}
